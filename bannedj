@@ -1,0 +1,14 @@
+{
+    "users": {
+        "0": [
+            "Violation of 1st rule.",
+            "Owner needs to contact"
+        ]
+    },
+    "groups": {
+        "0": [
+            "Violation of 1st rule.",
+            "Owner needs to contact"
+        ]
+    }
+}
